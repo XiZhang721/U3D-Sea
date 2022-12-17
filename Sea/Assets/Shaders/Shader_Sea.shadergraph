@@ -12668,7 +12668,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "538739657c084ccfb82dc742b7d99531",
-    "m_Name": "SecondaryWaveParameters",
+    "m_Name": "Secondary Wave Parameters",
     "m_ChildObjectList": [
         {
             "m_Id": "adeb3435c2354be3906d742def832543"
@@ -14809,7 +14809,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "675590a7e4b942b5b4d0f265bac6e56b",
-    "m_Name": "PrimaryWaveParameters",
+    "m_Name": "Primary Wave Parameters",
     "m_ChildObjectList": [
         {
             "m_Id": "7d922d0876eb4270ac0d212626ed8bf8"
@@ -17683,7 +17683,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "817d5250499e4ceb9c155dca2cc66bfc",
-    "m_Name": "ThirdaryWaveParameters",
+    "m_Name": "Thirdary Wave Parameters",
     "m_ChildObjectList": [
         {
             "m_Id": "523bced6e88b495790baee71b3417813"
@@ -22670,7 +22670,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.CategoryData",
     "m_ObjectId": "b6042f8f66094d6aac37bd7c26a84f2a",
-    "m_Name": "WaterParameters",
+    "m_Name": "Water Parameters",
     "m_ChildObjectList": [
         {
             "m_Id": "c3b3fb9e34dc4a63983e12a1d0f019a4"
